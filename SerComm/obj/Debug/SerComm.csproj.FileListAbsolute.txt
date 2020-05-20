@@ -1,0 +1,10 @@
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\bin\Debug\SerComm.exe.config
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\bin\Debug\SerComm.exe
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\bin\Debug\SerComm.pdb
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.csprojAssemblyReference.cache
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.Form1.resources
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.Properties.Resources.resources
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.csproj.GenerateResource.cache
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.csproj.CoreCompileInputs.cache
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.exe
+C:\Users\Matatias\Documents\Visual Studio 2019\SerComm\obj\Debug\SerComm.pdb
